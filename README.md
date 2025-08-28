@@ -11,5 +11,4 @@
 
 
 
-  ![Snake animation](https://github.com/lucaspk123/lucaspk123/blob/output/github-contribution-grid-snake.svg)
- 
+
